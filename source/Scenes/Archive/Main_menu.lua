@@ -1,0 +1,13 @@
+--[[QuadCollider:new( Vec2.new(0.0, 352.0), Vec2.new(256.0, 288.0), Vec2.new(512.0, 384.0), Vec2.new(512.0, 480.0), Color.new(42, 106, 35), true, true)
+	QuadCollider:new( Vec2.new(0.0, 352.0), Vec2.new(0.0, 480.0), Vec2.new(512.0, 480.0), Vec2.new(0.0, 352.0), Color.new(42, 106, 35), true, true)
+	QuadCollider:new( Vec2.new(512.0, 384.0), Vec2.new(640.0, 256.0), Vec2.new(640.0, 480.0), Vec2.new(512.0, 480.0), Color.new(42, 106, 35), true, true)
+	QuadCollider:new( Vec2.new(0.0, 0.0), Vec2.new(0.0, 352.0), Vec2.new(256.0, 288.0), Vec2.new(640.0, 0.0), Color.new(72, 138, 183), true, true)
+	QuadCollider:new( Vec2.new(256.0, 288.0), Vec2.new(512.0, 384.0), Vec2.new(640.0, 256.0), Vec2.new(640.0, 0.0), Color.new(72, 138, 183), true, true)
+	QuadCollider:new( Vec2.new(540.0, 50.0), Vec2.new(560.0, 95.0), Vec2.new(595.0, 105.0), Vec2.new(640.0, 100.0), Color.new(223, 247, 9), true, true)
+	QuadCollider:new( Vec2.new(540.0, 50.0), Vec2.new(545.0, 15.0), Vec2.new(570.0, 0.0), Vec2.new(640.0, 0.0), Color.new(223, 247, 9), true, true)
+	QuadCollider:new( Vec2.new(540.0, 50.0), Vec2.new(640.0, 100.0), Vec2.new(640.0, 0.0), Vec2.new(540.0, 50.0), Color.new(223, 247, 9), true, true)
+	QuadCollider:new( Vec2.new(585.0, 115.0), Vec2.new(600.0, 120.0), Vec2.new(575.0, 195.0), Vec2.new(560.0, 190.0), Color.new(223, 247, 9), true, true)
+	QuadCollider:new( Vec2.new(545.0, 100.0), Vec2.new(555.0, 110.0), Vec2.new(515.0, 155.0), Vec2.new(505.0, 140.0), Color.new(223, 247, 9), true, true)
+	QuadCollider:new( Vec2.new(525.0, 60.0), Vec2.new(530.0, 80.0), Vec2.new(470.0, 100.0), Vec2.new(465.0, 85.0), Color.new(223, 247, 9), true, true)
+	QuadCollider:new( Vec2.new(515.0, 15.0), Vec2.new(520.0, 35.0), Vec2.new(460.0, 55.0), Vec2.new(460.0, 35.0), Color.new(223, 247, 9), true, true)
+	]]--

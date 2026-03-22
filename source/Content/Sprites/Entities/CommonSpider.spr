@@ -1,0 +1,80 @@
+{
+  "width": 32,
+  "height": 32,
+  "count": 9,
+  "data": [
+    {
+      "x": 0,
+      "y": 0,
+      "width": 32,
+      "height": 32,
+      "interval": 0.25,
+      "key": "idle"
+    },
+    {
+      "x": 0,
+      "y": 32,
+      "width": 32,
+      "height": 32,
+      "interval": 0.15000000596046448,
+      "key": "run"
+    },
+    {
+      "x": 32,
+      "y": 32,
+      "width": 32,
+      "height": 32,
+      "interval": 0.15000000596046448,
+      "key": ""
+    },
+    {
+      "x": 64,
+      "y": 32,
+      "width": 32,
+      "height": 32,
+      "interval": 0.15000000596046448,
+      "key": ""
+    },
+    {
+      "x": 96,
+      "y": 32,
+      "width": 32,
+      "height": 32,
+      "interval": 0.15000000596046448,
+      "key": ""
+    },
+    {
+      "x": 0,
+      "y": 64,
+      "width": 32,
+      "height": 32,
+      "interval": 0.15000000596046448,
+      "key": "test_run"
+    },
+    {
+      "x": 32,
+      "y": 64,
+      "width": 32,
+      "height": 32,
+      "interval": 0.15000000596046448,
+      "key": ""
+    },
+    {
+      "x": 64,
+      "y": 64,
+      "width": 32,
+      "height": 32,
+      "interval": 0.15000000596046448,
+      "key": ""
+    },
+    {
+      "x": 96,
+      "y": 64,
+      "width": 32,
+      "height": 32,
+      "interval": 0.15000000596046448,
+      "key": ""
+    }
+  ],
+  "ref": "Content/Sprites/Entities/CommonSpider.img"
+}
